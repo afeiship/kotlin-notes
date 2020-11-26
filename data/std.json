@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Hello 第1单元 你好",
+    "subtitle": "i am sub title.",
+    "items": [
+      {
+        "en": "Hi, I'm Mocky. ",
+        "cn": "嗨，我是Mocky。"
+      },
+      {
+        "en": "Let's say. ",
+        "cn": "让我们说。"
+      },
+      {
+        "en": "an apple ",
+        "cn": "一个苹果"
+      },
+      {
+        "en": "Listen and say. ",
+        "cn": "听并说（听力练习）"
+      }
+    ]
+  },
+  {
+    "title": "world 第2单元 你好",
+    "subtitle": "i am subtitle too.",
+    "items": [
+      {
+        "en": "Hi, I'm Mocky. ",
+        "cn": "嗨，我是Mocky。"
+      },
+      {
+        "en": "Let's say. ",
+        "cn": "让我们说。"
+      },
+      {
+        "en": "an apple ",
+        "cn": "一个苹果"
+      },
+      {
+        "en": "Listen and say. ",
+        "cn": "听并说（听力练习）"
+      }
+    ]
+  }
+]

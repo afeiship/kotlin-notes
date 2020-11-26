@@ -10,5 +10,9 @@
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "dependencies": {
+    "nested-json-to-table": "^1.0.6",
+    "xlsx": "^0.16.9"
   }
 }
