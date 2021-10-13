@@ -1,8 +1,8 @@
 {
-  "name": "@jswork/xlsx-notes",
+  "name": "@jswork/kotlin-notes",
   "version": "1.0.0",
-  "description": "Xlsx notes.",
-  "homepage": "https://github.com/afeiship",
+  "description": "Kotlin notes.",
+  "homepage": "https://github.com/afeiship/kotlin-notes",
   "author": {
     "name": "afeiship",
     "email": "1290657123@qq.com"
@@ -10,9 +10,5 @@
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
-  },
-  "dependencies": {
-    "nested-json-to-table": "^1.0.6",
-    "xlsx": "^0.16.9"
   }
 }
