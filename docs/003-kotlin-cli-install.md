@@ -1,9 +1,10 @@
-# kotlin sdk install
-
+# kotlin cli install
+> cli相关命令安装
 
 ## site
 - https://kotlinlang.org/
 - https://kotlinlang.org/docs/command-line.html
+- https://www.bilibili.com/video/BV1rE411k7Xe?p=3&spm_id_from=333.788.b_6d756c74695f70616765.3
 
 ## 安装
 ```shell
