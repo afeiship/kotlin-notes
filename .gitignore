@@ -7,7 +7,7 @@ package-lock.json
 .DS_Store
 .idea
 
-
+out
 # vscode
 .vscode
 .history
